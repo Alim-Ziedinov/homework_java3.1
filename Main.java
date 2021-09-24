@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int price_ticket = 10_000;
+        int priceTicket = 10_000;
         int bonus = 20;
-        int total_bonus = price_ticket / bonus;
+        int total_bonus = priceTicket / bonus;
         System.out.print(total_bonus);
     }
 }
